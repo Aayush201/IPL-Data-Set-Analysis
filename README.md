@@ -5,7 +5,7 @@ league established by the Board of Control for Cricket in India (BCCI) in 2007.
 Source of the Dataset:
 https://www.kaggle.com/raghu07/ipl-data-till-2017
                                                                         
-                                                        OBJECTIVES<br />
+                                                        OBJECTIVES
 The objectives are carefully selected to analyze the dataset to get useful information. The scope of each analysis is limited to the dataset to get accurate results for every
 objective. <br />
 Following analysis are done on the dataset:<br />

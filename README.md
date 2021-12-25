@@ -1,7 +1,7 @@
 # IPL-Data-Set-Analysis
 The  Indian Premier League, also known as IPL  and branded as Dream11 Indian Premier League 2020, was the thirteenth season of the IPL, a professional Twenty20 cricket (T20) 
 league established by the Board of Control for Cricket in India (BCCI) in 2007. <br />
-I have used Microsoft Excel for the analysis.
+I have used Microsoft Excel for the analysis.<br />
 Source of the Dataset:
 https://www.kaggle.com/raghu07/ipl-data-till-2017
 
